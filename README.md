@@ -1,0 +1,2 @@
+# HandWrittenDigit
+Research in the handwriting recognition subject is centered on deep learning strategies and has accomplished breakthrough overall performance in the previous couple of years. Convolutional neural networks (CNNs) are very powerful in perceiving the structure of handwritten digits in ways that assist in automated extraction of features and make CNN the most appropriate technique for solving handwriting recognition problems. Here, our goal is to attain similar accuracy through the use of a pure CNN structure.
